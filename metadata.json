@@ -1,0 +1,5 @@
+{
+  "name": "Mentor Aqua: Guardianes del Agua",
+  "description": "An AI chat mentor to guide students through a STEAM project about flooding in Iztapalapa, Mexico City. This app helps students define a problem, create a plan, and build a solution.",
+  "requestFramePermissions": []
+}
